@@ -3,7 +3,7 @@
 ## Overview
 EMS (Employee Management System) is a web-based application built using **ASP.NET Core Web API** with **Entity Framework Core**, **JWT Authentication**, and **Role-Based Access Control (RBAC)**. The system allows **Admins** to manage employees, track leaves, handle timesheets, and generate reports.
 
----
+
 
 ## Features 🎯
 - User authentication & authorization (Employee/Admin)
@@ -12,6 +12,16 @@ EMS (Employee Management System) is a web-based application built using **ASP.NE
 - Leave application system
 - Reporting and analytics
 - Admin Dashboard
+
+## *Technology Stack*
+- *Backend:* ASP.NET Core Web API (C#)
+- *Database:* SQL Server (EF Core)
+- *Authentication:* JWT (JSON Web Tokens)
+- *Dependency Injection:* Scoped services
+- *Logging:* Serilog (optional)
+- *Frontend (Future Scope):* Angular / React
+
+---
 
 # Employee Management System API 📌
 
