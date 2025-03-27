@@ -40,7 +40,7 @@ This API provides authentication, user management, timesheet tracking, leave man
 ## Department Management 📁
 | Method | Endpoint | Description |
 |--------|---------|-------------|
-| **GET** | `/api/Department/Get-All-Departments` | Get all departments |
+| **GET** | `/api/Department/Get-All-Departments` | Get all departments With Employee Details |
 | **GET** | `/api/Department/Get-All-Departments-By-Id{{id}}` | Get department by ID |
 | **POST** | `/api/Department/Create-Department` | Create a new department |
 | **PUT** | `/api/Department/Update-Department-By-Id{{id}}` | Update department details |
@@ -75,7 +75,7 @@ This API provides authentication, user management, timesheet tracking, leave man
 ## Dashboard  📁
 | Method | Endpoint | Description |
 |--------|---------|-------------|
-| **GET** | `/api/dashboard/employee-Dashboard/:employeeId` | Get Employee Basic Deatils with latest timesheets |
+| **GET** | `/api/dashboard/employee-Dashboard/:employeeId` | Get Employee Basic Deatils with latest timesheets and Leave Balance|
 | **GET** | `/api/dashboard/admin-Dashboard` | Get the pending leaves of  the employees  |
 | **GET** | `/api/dashboard/most-active-Employee` | Get the most active employee(Working hours) |
 | **GET** | `/api/dashboard/leave-analytics-of-Employee` | Get each employees leave days |
