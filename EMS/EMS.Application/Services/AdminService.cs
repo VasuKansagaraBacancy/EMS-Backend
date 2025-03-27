@@ -4,10 +4,6 @@ using EMS.EMS.Application.Interfaces;
 using EMS.EMS.Domain.Entities;
 using EMS.EMS.Domain.Interfaces;
 using EMS.EMS.Shared.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace EMS.EMS.Application.Services
 {
@@ -16,14 +12,12 @@ namespace EMS.EMS.Application.Services
         private readonly IUserRepository _userRepo;
         private readonly IPasswordResetTokenRepo _passwordResetTokenRepo;
         private readonly IEmailService _emailService;
-
         public AdminService(IUserRepository userRepo, IPasswordResetTokenRepo passwordResetTokenRepo, IEmailService emailService)
         {
             _userRepo = userRepo;
             _passwordResetTokenRepo = passwordResetTokenRepo;
             _emailService = emailService;
         }
-
         public async Task<(bool Success, string Message)> CreateAdminAsync(CreateAdminDTO dto, int createdBy)
         {
             try
@@ -72,7 +66,6 @@ namespace EMS.EMS.Application.Services
                 return (false, $"An error occurred while creating the Admin: {ex.Message}");
             }
         }
-
         public async Task<List<AdminResponseDTO>> GetAllAdminsAsync()
         {
             try
@@ -85,7 +78,6 @@ namespace EMS.EMS.Application.Services
                 throw new Exception("An error occurred while fetching Admins.", ex);
             }
         }
-
         public async Task<UserProfileDTO> GetLoggedInUserProfileAsync(int? userId, int? roleId)
         {
             try
@@ -121,7 +113,6 @@ namespace EMS.EMS.Application.Services
                         Leavebalance=user.Employee.LeaveBalance
                     };
                 }
-
                 return dto;
             }
             catch (Exception ex)

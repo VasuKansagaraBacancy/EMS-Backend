@@ -90,7 +90,6 @@ namespace EMS.EMS.Application.Services
                 return (false, ex.Message);
             }
         }
-
         public async Task<(bool isSuccess, string message)> UpdateDepartmentAsync(DepartmentUpdateDto dto)
         {
             try

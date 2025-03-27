@@ -3,7 +3,6 @@ using EMS.EMS.Application.Interfaces;
 using EMS.EMS.Domain.Entities;
 using EMS.EMS.Domain.Interfaces;
 using EMS.EMS.Shared.Helpers;
-using System.Net;
 
 namespace EMS.EMS.Application.Services
 {
@@ -14,7 +13,6 @@ namespace EMS.EMS.Application.Services
         private readonly IJwtService _jwtService;
         private readonly IPasswordResetTokenRepo _passwordResetTokenRepo;
         private readonly IEmailService _emailService;
-
         public AuthService(
             ITokenBlacklistRepository tokenBlacklistRepository,
             IUserRepository userRepo,

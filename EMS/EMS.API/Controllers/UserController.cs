@@ -89,7 +89,6 @@ namespace EMS.EMS.API.Controllers
             }
         }
 
-
         [HttpGet("Get-All-Admins")]
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> GetAllAdmins()
@@ -263,7 +262,6 @@ namespace EMS.EMS.API.Controllers
             }
         }
 
-
         [Authorize(Roles = "Admin")]
         [HttpGet("{employeeId}/details-with-timesheets")]
         public async Task<IActionResult> GetEmployeeDetailsWithTimesheets(int employeeId)
@@ -362,7 +360,6 @@ namespace EMS.EMS.API.Controllers
             var roleIdClaim = User.Claims.FirstOrDefault(c => c.Type == "RoleId");
             return int.TryParse(roleIdClaim?.Value, out var roleId) ? roleId : null;
         }
-
         private ObjectResult HandleServerError(Exception ex)
         {
             return StatusCode(StatusCodes.Status500InternalServerError, new { message = "An unexpected error occurred.", error = ex.Message });

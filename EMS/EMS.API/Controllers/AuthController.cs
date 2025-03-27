@@ -13,14 +13,12 @@ namespace EMS.EMS.API.Controllers
         private readonly IAuthService _authService;
         private readonly IHttpContextAccessor _httpContextAccessor;
         private readonly ILogger<AuthController> _logger;
-
         public AuthController(IAuthService authService, IHttpContextAccessor httpContextAccessor, ILogger<AuthController> logger)
         {
             _authService = authService;
             _httpContextAccessor = httpContextAccessor;
             _logger = logger;
         }
-
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginDTO dto)
         {
@@ -48,7 +46,6 @@ namespace EMS.EMS.API.Controllers
                 return StatusCode(500, new { message = "An error occurred while processing the request.", error = ex.Message });
             }
         }
-
         [HttpPost("logout")]
         public async Task<IActionResult> Logout()
         {

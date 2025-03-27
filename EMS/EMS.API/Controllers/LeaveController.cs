@@ -74,7 +74,6 @@ namespace EMS.EMS.API.Controllers
                 return StatusCode(500, new { message = "An unexpected error occurred. Please try again later." });
             }
         }
-
         #region Private Helpers
         private int? GetUserIdFromClaims()
         {

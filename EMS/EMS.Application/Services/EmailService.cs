@@ -10,7 +10,7 @@ namespace EMS.EMS.Application.Services
         private readonly IConfiguration _configuration;
         public EmailService(IConfiguration configuration)
         {
-            _configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
+            _configuration = configuration ;
         }
         public async Task SendEmailAsync(string toEmail, string subject, string body)
         {

@@ -244,3 +244,4 @@ C:\Users\patel\source\repos\EMS\EMS\bin\Debug\net8.0\runtimes\win-x86\native\sql
 C:\Users\patel\source\repos\EMS\EMS\bin\Debug\net8.0\runtimes\win-x86\native\sqlcese40.dll
 C:\Users\patel\source\repos\EMS\EMS\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\patel\source\repos\EMS\EMS\bin\Debug\net8.0\appsettings.json
+C:\Users\patel\source\repos\EMS\EMS\obj\Debug\net8.0\EMS.sourcelink.json

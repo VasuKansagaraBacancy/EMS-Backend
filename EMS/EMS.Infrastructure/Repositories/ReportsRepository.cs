@@ -14,7 +14,6 @@ namespace EMS.EMS.Infrastructure.Repositories
         {
             _context = context;
         }
-
         public async Task<List<EmployeeWorkHoursReportDto>> GetEmployeeWorkHoursReportAsync(ReportRequestDto request)
         {
             try
@@ -72,7 +71,6 @@ namespace EMS.EMS.Infrastructure.Repositories
                         })
                         .ToList()
                 };
-
                 return groupedReports;
             }
             catch (Exception ex)

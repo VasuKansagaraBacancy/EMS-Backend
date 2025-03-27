@@ -11,7 +11,7 @@ namespace EMS.EMS.Infrastructure.Repositories
 
         public PasswordResetTokenRepo(EMSDbContext context)
         {
-            _context = context ?? throw new ArgumentNullException(nameof(context));
+            _context = context;
         }
 
         public async Task AddAsync(PasswordResetToken token)

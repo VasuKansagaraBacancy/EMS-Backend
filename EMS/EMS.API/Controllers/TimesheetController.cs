@@ -13,7 +13,6 @@ namespace EMS.EMS.API.Controllers
     {
         private readonly ITimesheetService _service;
         private readonly ILogger<TimesheetController> _logger;
-
         public TimesheetController(ITimesheetService service, ILogger<TimesheetController> logger)
         {
             _service = service;
