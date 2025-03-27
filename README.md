@@ -102,7 +102,7 @@ This API provides authentication, user management, timesheet tracking, leave man
 ## Dashboard  📁
 | Method | Endpoint | Description |
 |--------|---------|-------------|
-| **GET** | `/api/dashboard/employee-Dashboard/:employeeId` | Get Employee Basic Deatils with latest timesheets and Leave Balance|
+| **GET** | `/api/dashboard/employee-Dashboard/:employeeId` | Get Employee Basic Deatils with latest timesheets,working hours and Leave Balance|
 | **GET** | `/api/dashboard/admin-Dashboard` | Get the pending leaves of  the employees  |
 | **GET** | `/api/dashboard/most-active-Employee` | Get the most active employee(Working hours) |
 | **GET** | `/api/dashboard/leave-analytics-of-Employee` | Get each employees leave days |
