@@ -18,5 +18,4 @@ namespace EMS.EMS.Application.DTOs.EmployeeDTO
         [EmailAddress(ErrorMessage = "Invalid email address.")]
         public string Email { get; set; }
     }
-
 }

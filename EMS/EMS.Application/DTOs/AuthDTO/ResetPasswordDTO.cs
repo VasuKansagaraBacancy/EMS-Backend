@@ -7,5 +7,4 @@ namespace EMS.EMS.Application.DTOs.AuthDTO
         [EmailAddress]
         public required string Email { get; set; }
     }
-
 }

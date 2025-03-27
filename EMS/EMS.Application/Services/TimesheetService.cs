@@ -8,11 +8,9 @@ namespace EMS.EMS.Application.Services
     public class TimesheetService : ITimesheetService
     {
         private readonly ITimesheetRepository _repository;
-        private readonly ILogger<TimesheetService> _logger;
-        public TimesheetService(ITimesheetRepository repository, ILogger<TimesheetService> logger)
+        public TimesheetService(ITimesheetRepository repository)
         {
             _repository = repository;
-            _logger = logger;
         }
         public async Task<IEnumerable<TimesheetResponseDto>> GetTimesheetsForEmployeeAsync(int? userId)
         {

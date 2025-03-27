@@ -11,5 +11,4 @@ namespace EMS.EMS.Application.DTOs.DashboardDTO
         public int LeaveBalance { get; set; }
         public List<TimesheetDashDto> LatestTimesheets { get; set; }
     }
-
 }

@@ -6,5 +6,4 @@
         public List<LeaveRequestDashDto> PendingLeaveRequests { get; set; }
 
     }
-
 }

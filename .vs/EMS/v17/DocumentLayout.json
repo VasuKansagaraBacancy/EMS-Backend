@@ -3,8 +3,208 @@
   "WorkspaceRootPath": "C:\\Users\\patel\\source\\repos\\EMS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\reportsservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\reportsservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\services\\timesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\idashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\ireportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\ireportsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\interfaces\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\interfaces\\itimesheetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\timesheetdto\\timesheetupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\timesheetdto\\timesheetupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\timesheetdto\\timesheetresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\timesheetdto\\timesheetresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\timesheetdto\\timesheetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\timesheetdto\\timesheetrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\timesheetdto\\timesheetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\timesheetdto\\timesheetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\timesheetdto\\timesheetdashdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\timesheetdto\\timesheetdashdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\reportdto\\reportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\reportdto\\reportrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\leavedto\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\leavedto\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\leavedto\\employeeleavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\leavedto\\employeeleavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\userprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\updateemployeeprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\updateemployeeprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\employeeworkhoursreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\employeeworkhoursreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\employeewithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\employeewithuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\employeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\employeeprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\employeeprofiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\employeedto\\employeedetailswithtimesheetsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\employeedto\\employeedetailswithtimesheetsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\departmentdto\\employeedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\departmentdto\\employeedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\departmentdto\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\departmentdto\\departmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\departmentdto\\departmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\departmentdto\\departmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\departmentdto\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\departmentdto\\departmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\dashboarddto\\leaverequestdashdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\dashboarddto\\leaverequestdashdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\dashboarddto\\leaveanalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\dashboarddto\\leaveanalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\dashboarddto\\employeedashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\dashboarddto\\employeedashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\dashboarddto\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\dashboarddto\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\dashboarddto\\activeemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\dashboarddto\\activeemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\authdto\\resetpasswordwithtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\authdto\\resetpasswordwithtokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\authdto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\authdto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\authdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\admindto\\createadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\admindto\\createadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|c:\\users\\patel\\source\\repos\\ems\\ems\\ems.application\\dtos\\admindto\\adminresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DAD3D6-64F9-480E-9D75-9371C2E46A00}|EMS\\EMS.csproj|solutionrelative:ems\\ems.application\\dtos\\admindto\\adminresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +214,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 385,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +226,663 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EMS\\EMS.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAwwMoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:41:13.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\AdminService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:31.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:26.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\DashboardService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:22.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\EmailService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:20.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:15.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\JwtService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:13.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportsService .cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\ReportsService .cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\ReportsService .cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\ReportsService .cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\ReportsService .cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:41:03.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimesheetService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\TimesheetService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\TimesheetService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\TimesheetService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Services\\TimesheetService.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAswAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:40:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IDashboardService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IDashboardService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IDashboardService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IDashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:40:07.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:40:06.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:40:04.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAywAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:40:03.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:40:00.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\ILeaveService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\ILeaveService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\ILeaveService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\ILeaveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:58.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IReportsService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IReportsService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IReportsService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IReportsService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IReportsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:57.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITimesheetService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\ITimesheetService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\ITimesheetService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\ITimesheetService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\ITimesheetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:52.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TimesheetUpdateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetUpdateRequestDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetUpdateRequestDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetUpdateRequestDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetUpdateRequestDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TimesheetResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetResponseDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetResponseDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetResponseDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetResponseDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TimesheetRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetRequestDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetRequestDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetRequestDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetRequestDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReportRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\ReportDTO\\ReportRequestDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\ReportDTO\\ReportRequestDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\ReportDTO\\ReportRequestDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\ReportDTO\\ReportRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:25.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LeaveRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\LeaveDTO\\LeaveRequestDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\LeaveDTO\\LeaveRequestDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\LeaveDTO\\LeaveRequestDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\LeaveDTO\\LeaveRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:21.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmployeeLeaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\LeaveDTO\\EmployeeLeaveDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\LeaveDTO\\EmployeeLeaveDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\LeaveDTO\\EmployeeLeaveDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\LeaveDTO\\EmployeeLeaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:16.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UserProfileDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UserProfileDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UserProfileDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UserProfileDTO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:09.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateEmployeeProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UpdateEmployeeProfileDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UpdateEmployeeProfileDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UpdateEmployeeProfileDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\UpdateEmployeeProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:39:05.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmployeeWorkHoursReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWorkHoursReportDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWorkHoursReportDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWorkHoursReportDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWorkHoursReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:42.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EmployeeWithUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWithUserDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWithUserDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWithUserDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeWithUserDTO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:35.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EmployeeUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeUpdateDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeUpdateDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeUpdateDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeResponseDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeResponseDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeResponseDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:18.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeProfileDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeProfileDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeProfileDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeProfileDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeProfileDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:13.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmployeeDetailsWithTimesheetsDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeDetailsWithTimesheetsDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeDetailsWithTimesheetsDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeDetailsWithTimesheetsDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\EmployeeDTO\\EmployeeDetailsWithTimesheetsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:06.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmployeeDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\EmployeeDepartmentDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\EmployeeDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\EmployeeDepartmentDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\EmployeeDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:38:02.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DepartmentUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentUpdateDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentUpdateDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentUpdateDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:58.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DepartmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentResponseDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentResponseDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentResponseDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:54.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DepartmentCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentCreateDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentCreateDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentCreateDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DepartmentDTO\\DepartmentCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:48.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LeaveRequestDashDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveRequestDashDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveRequestDashDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveRequestDashDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveRequestDashDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:44.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LeaveAnalyticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveAnalyticsDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveAnalyticsDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveAnalyticsDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\LeaveAnalyticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:38.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmployeeDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\EmployeeDashboardDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\EmployeeDashboardDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\EmployeeDashboardDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\EmployeeDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:32.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdminDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\AdminDashboardDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\AdminDashboardDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\AdminDashboardDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\AdminDashboardDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:25.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ActiveEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\ActiveEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\ActiveEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\DashboardDTO\\ActiveEmployeeDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\DashboardDTO\\ActiveEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResetPasswordWithTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordWithTokenDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordWithTokenDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordWithTokenDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordWithTokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:14.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ResetPasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\AuthDTO\\ResetPasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:37:06.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\AuthDTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:36:58.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateAdminDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AdminDTO\\CreateAdminDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\AdminDTO\\CreateAdminDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AdminDTO\\CreateAdminDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\AdminDTO\\CreateAdminDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:36:52.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AdminResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AdminDTO\\AdminResponseDTO.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\AdminDTO\\AdminResponseDTO.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\AdminDTO\\AdminResponseDTO.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\AdminDTO\\AdminResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:36:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TimesheetDashDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDashDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDashDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDashDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDashDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:36:39.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TimesheetDto.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDto.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDto.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDto.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\DTOs\\TimeSheetDTO\\TimesheetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:36:30.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "EMS\\EMS.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "EMS\\EMS.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:36:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "LeaveService.cs",
               "DocumentMoniker": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\LeaveService.cs",
               "RelativeDocumentMoniker": "EMS\\EMS.Application\\Services\\LeaveService.cs",
               "ToolTip": "C:\\Users\\patel\\source\\repos\\EMS\\EMS\\EMS.Application\\Services\\LeaveService.cs",
               "RelativeToolTip": "EMS\\EMS.Application\\Services\\LeaveService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T10:22:39.9Z",
               "EditorCaption": ""

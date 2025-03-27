@@ -6,5 +6,4 @@
         public DateOnly Date { get; set; }
         public double HoursWorked { get; set; }
     }
-
 }

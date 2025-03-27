@@ -11,5 +11,4 @@ namespace EMS.EMS.Application.DTOs.EmployeeDTO
         public string Department { get; set; } = string.Empty;
         public List<TimesheetDto> Timesheets { get; set; } = new();
     }
-
 }

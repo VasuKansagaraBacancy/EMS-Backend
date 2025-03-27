@@ -149,7 +149,8 @@ namespace EMS.EMS.Application.Services
                 var employee = await _employeeRepo.GetEmployeeByIdAsync(employeeId);
                 if (employee == null)
                     throw new Exception($"Employee with id {employeeId} not found.");
-
+                if (employee.IsActive == isActive)
+                    throw new InvalidOperationException($"Employee is already {(isActive ? "active" : "inactive")}.");
                 employee.IsActive = isActive;
                 employee.UpdatedAt = DateTime.UtcNow;
                 employee.UpdatedBy = updatedByUserId;
