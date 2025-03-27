@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kceiH148XIBoFxa36WsXRrK1I7dbThVzijOogvHE1cs=",
+  "Source": "EMS",
+  "BasePath": "_content/EMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
