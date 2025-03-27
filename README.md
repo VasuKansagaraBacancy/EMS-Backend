@@ -22,7 +22,34 @@ EMS (Employee Management System) is a web-based application built using **ASP.NE
 - *Frontend (Future Scope):* Angular / React
 
 ---
-
+# Project Structure
+```
+📦 EMS (Solution)
+│
+├── 📂 EMS.API
+│   ├── 📂 Controllers
+│
+├── 📂 EMS.Application
+│   ├── 📂 DTOs
+│   ├── 📂 Interfaces(Services)
+│   ├── 📂 Services
+│
+├── 📂 EMS.Domain
+│   ├── 📂 Entities
+│   ├── 📂 Interfaces(Repositories)
+│
+├── 📂 EMS.Infrastructure
+│   ├── 📂 Data
+│   ├── 📂 Migrations
+│   ├── 📂 Repositories
+│
+├── 📂 EMS.Shared
+│   ├── 📂 Helpers
+│
+├── 📂 Properties
+├── 📄 appsettings.json
+├── 📄 Program.cs
+```
 # Employee Management System API 📌
 
 This API provides authentication, user management, timesheet tracking, leave management, and reporting functionalities.
