@@ -8,6 +8,5 @@ namespace EMS.EMS.Application.Interfaces
         Task<TimesheetResponseDto?> GetTimesheetByIdAsync(int timesheetId, int? UserId);
         Task<bool> AddTimesheetAsync(TimesheetRequestDto dto, int? UserId);
         Task<bool> UpdateTimesheetAsync(TimesheetUpdateRequestDto dto, int? UserId);
-
     }
 }

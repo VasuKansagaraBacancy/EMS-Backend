@@ -8,5 +8,4 @@ namespace EMS.EMS.Domain.Interfaces
         Task<PasswordResetToken> GetByTokenAsync(string token);
         Task UpdateAsync(PasswordResetToken token);
     }
-
 }

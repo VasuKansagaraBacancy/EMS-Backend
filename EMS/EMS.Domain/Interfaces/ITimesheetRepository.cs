@@ -5,7 +5,6 @@ namespace EMS.EMS.Domain.Interfaces
 {
     public interface ITimesheetRepository
     {
-
         Task<IEnumerable<Timesheet>> GetTimesheetsByEmployeeIdAsync(int employeeId);
         Task<Timesheet?> GetTimesheetByIdAsync(int timesheetId);
         Task AddTimesheetAsync(Timesheet timesheet);

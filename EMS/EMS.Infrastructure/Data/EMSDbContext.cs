@@ -8,7 +8,6 @@ namespace EMS.EMS.Infrastructure.Data
         public EMSDbContext(DbContextOptions<EMSDbContext> options) : base(options)
         {
         }
-
         public DbSet<Role> Roles { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Department> Departments { get; set; }
@@ -82,7 +81,6 @@ namespace EMS.EMS.Infrastructure.Data
 
             SeedRoles(modelBuilder);
         }
-
         // Seed roles data
         private void SeedRoles(ModelBuilder modelBuilder)
         {

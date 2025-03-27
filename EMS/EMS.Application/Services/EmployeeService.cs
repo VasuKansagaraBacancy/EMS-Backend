@@ -82,8 +82,6 @@ namespace EMS.EMS.Application.Services
                 return (false, $"An error occurred while creating the employee: {ex.Message}");
             }
         }
-        
-
          public async Task<bool> UpdateEmployeeAsync(int EmployeeId, EmployeeUpdateDTO employeeDto, int? updatedByUserId)
          {
             try

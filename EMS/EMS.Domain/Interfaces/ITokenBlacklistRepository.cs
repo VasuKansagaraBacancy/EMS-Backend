@@ -7,5 +7,4 @@ namespace EMS.EMS.Domain.Interfaces
         Task AddTokenAsync(TokenBlacklist token);
         Task<bool> IsTokenBlacklistedAsync(string token);
     }
-
 }

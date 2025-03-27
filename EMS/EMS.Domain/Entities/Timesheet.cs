@@ -44,7 +44,6 @@ namespace EMS.EMS.Domain.Entities
                     new[] { nameof(StartTime), nameof(EndTime) }
                 ));
             }
-
             return validationResults;
         }
     }

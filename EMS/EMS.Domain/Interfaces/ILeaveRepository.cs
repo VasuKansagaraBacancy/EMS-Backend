@@ -11,7 +11,5 @@ namespace EMS.EMS.Domain.Interfaces
         Task<Employee?> GetEmployeeByIdAsync(int employeeId);
         Task<int> GetLeaveBalanceAsync(int employeeId);
         Task<List<Leave>> GetPendingLeaveRequestsAsync();
-
-
     }
 }
